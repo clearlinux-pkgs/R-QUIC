@@ -4,7 +4,7 @@
 #
 Name     : R-QUIC
 Version  : 1.1
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/QUIC_1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/QUIC_1.1.tar.gz
 Summary  : Regularized sparse inverse covariance matrix estimation
